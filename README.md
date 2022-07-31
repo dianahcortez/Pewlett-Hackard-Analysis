@@ -15,6 +15,10 @@ Quick DBD was used to map out the connections between the 6 tables provided.
 
 <img width="500" alt="Quick DBD Map" src="https://user-images.githubusercontent.com/104927745/182040553-c1ef87a0-36b2-412b-abf5-63de09aac591.PNG">
 
+Unique Titles - Raw Data Output
+
+<img width="688" alt="Unique titles raw data" src="https://user-images.githubusercontent.com/104927745/182041398-8e40d20f-2728-438b-816b-d97851fd9032.PNG">
+
 Total number of employees retiring based on criteria specified
 
 <img width="500" alt="Number of employees retiring" src="https://user-images.githubusercontent.com/104927745/182040337-89fb85aa-0e94-4db6-8f36-62109a3969f6.PNG">
