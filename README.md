@@ -7,8 +7,9 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 - Deliverable 2: The Empmloyees Eligible for the Mentorship Program
 - Deliverable 3: A written report on the employee database analysis (README.md)
 
-## Resource:
-- Data Tools: PostgreSQL, pgAdmin, QuickDBD
+## Resources:
+- Data Tools: SQL, PostgreSQL, pgAdmin, QuickDBD
+- Original Datasets: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
 
 ## Results
 Quick DBD was used to map out the connections between the 6 tables provided.
@@ -20,6 +21,7 @@ Unique Titles - Raw Data Output
 <img width="688" alt="Unique titles raw data" src="https://user-images.githubusercontent.com/104927745/182041398-8e40d20f-2728-438b-816b-d97851fd9032.PNG">
 
 Total number of employees retiring based on criteria specified
+- Out of those eligible employees, there are 402 Engineers, 392 Senior Staff, 332 Staff, 290 Senior Engineers, 77 Technique Leaders, and 56 Assistant Engineers.
 
 <img width="500" alt="Number of employees retiring" src="https://user-images.githubusercontent.com/104927745/182040337-89fb85aa-0e94-4db6-8f36-62109a3969f6.PNG">
 
