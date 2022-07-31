@@ -12,7 +12,7 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 - Original Datasets: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
 
 ## Results
-Quick DBD was used to map out the connections between the 6 tables provided.
+Quick DBD was used to map out the connections between the 6 tables provided
 
 <img width="500" alt="Quick DBD Map" src="https://user-images.githubusercontent.com/104927745/182040553-c1ef87a0-36b2-412b-abf5-63de09aac591.PNG">
 
@@ -28,6 +28,8 @@ Unique Titles Count of Retiring (retirement_titles_main.csv)
 
 <img width="500" alt="Unique Retiring Titles Count" src="https://user-images.githubusercontent.com/104927745/182040345-2ca60bcd-2758-4270-ac83-dce6c4c77d55.PNG">
 
+Mentorship Eligibility Table - Employees who are eligible to participate in a mentorship program
 
+<img width="673" alt="membership_eligibility" src="https://user-images.githubusercontent.com/104927745/182042380-41de17e6-3fb7-4c20-a008-98e7d76ffbd1.PNG">
 
 ## Summary
