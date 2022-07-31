@@ -37,6 +37,6 @@ Mentorship Eligibility Table - Employees who are eligible to participate in a me
 <img width="500" alt="membership_eligibility" src="https://user-images.githubusercontent.com/104927745/182042380-41de17e6-3fb7-4c20-a008-98e7d76ffbd1.PNG">
 
 ## Summary
-- After this analysis, there will be a total of 90,398 roles needing to be filled as the "silver tsunami" begins to make an impact.
+- After this analysis, there will be a total of 72,458 roles needing to be filled as the "silver tsunami" begins to make an impact.
 - In looking at the data there are NOT enough qualified retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
 -   There are only 1,940 eligible for the mentorship program. 
