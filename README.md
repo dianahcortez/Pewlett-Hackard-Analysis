@@ -18,7 +18,7 @@ Quick DBD was used to map out the connections between the 6 tables provided
 
 Unique Titles - Raw Data Output
 
-<img width="688" alt="Unique titles raw data" src="https://user-images.githubusercontent.com/104927745/182041398-8e40d20f-2728-438b-816b-d97851fd9032.PNG">
+<img width="500" alt="Unique titles raw data" src="https://user-images.githubusercontent.com/104927745/182041398-8e40d20f-2728-438b-816b-d97851fd9032.PNG">
 
 Total number of employees retiring based on criteria specified
 
@@ -28,8 +28,17 @@ Unique Titles Count of Retiring (retirement_titles_main.csv)
 
 <img width="500" alt="Unique Retiring Titles Count" src="https://user-images.githubusercontent.com/104927745/182040345-2ca60bcd-2758-4270-ac83-dce6c4c77d55.PNG">
 
+Total Count of Eligible Employees for the Mentorship Program
+
+<img width="500" alt="mentorship total count" src="https://user-images.githubusercontent.com/104927745/182042737-a57688bb-6fdb-4c12-ac09-8c123b1075f8.PNG">
+
 Mentorship Eligibility Table - Employees who are eligible to participate in a mentorship program
 
-<img width="673" alt="membership_eligibility" src="https://user-images.githubusercontent.com/104927745/182042380-41de17e6-3fb7-4c20-a008-98e7d76ffbd1.PNG">
+<img width="500" alt="membership_eligibility" src="https://user-images.githubusercontent.com/104927745/182042380-41de17e6-3fb7-4c20-a008-98e7d76ffbd1.PNG">
 
 ## Summary
+- After this analysis, there will be a total of 72,458 roles needing to be filled as the "silver tsunami" begins to make an impact.
+- In looking at the data there are NOT enough qualified retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
+-   There are only 1,940 eligible for the mentorship program. 
+
+<img width="500" alt="summary image" src="https://user-images.githubusercontent.com/104927745/182043368-95d16fc2-ea25-4a4a-aeb8-9924a0044f3e.PNG">
